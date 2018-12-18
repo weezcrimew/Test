@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class CalculatorAppDavydovTest {
+public class CalculatorAppSalimovTest {
 
 	@Test
 	public void test() throws InterruptedException {
