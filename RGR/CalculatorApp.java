@@ -58,7 +58,7 @@ class Calculator extends JFrame implements ActionListener{
 	}
 	
 	public void doCount(){
-		textField4.setText((20/(Integer.valueOf(textField1.getText()) + Integer.valueOf(textField2.getText()) + Integer.valueOf(textField3.getText()) ) + "." )); //do the count
+		textField4.setText((20/(Integer.valueOf(textField1.getText()) + Integer.valueOf(textField2.getText()) + Integer.valueOf(textField3.getText()) )+1 + "." )); //do the count
 	}
 	
 }
